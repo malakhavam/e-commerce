@@ -47,12 +47,12 @@
   
    ## Video
 
-   Link to video: 
+   Link to video: https://youtu.be/xzb_LWl5HlI
    
    ## Questions
    
    If you have questions or want to share comments, I will be glad to hear from you. Please contact me at malakhava@yahoo.com
 
-   https://github.com/malakhavam/employee-tracker
+   https://github.com/malakhavam/e-commerce
    
    malakhava@yahoo.com
